@@ -31,16 +31,4 @@ Welcome to my interactive 3D portfolio built with **React**, **Three.js (Drei)**
 
 ---
 
-## 📁 Project Structure
 
-```bash
-├── public/
-├── src/
-│   ├── assets/
-│   ├── components/
-│   ├── constants/
-│   ├── scenes/
-│   ├── styles/
-│   └── App.jsx
-├── index.html
-└── tailwind.config.js
