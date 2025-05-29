@@ -1,6 +1,7 @@
 # 💻 Shyamala's 3D Developer Portfolio
 
-https://1drv.ms/i/c/7fe51ebf28068c6c/EYQYEEcsspJPgp8CAZdccM0BaWpvee9yeGXXz1ewr6rv5w?e=d3Gk8O
+![Screenshot 2025-05-29 145458](https://github.com/user-attachments/assets/98dda6ca-e8c3-4fb7-b767-e49cad7fccf2)
+
 
 <!-- Add a screenshot or GIF of your portfolio -->
 
@@ -9,7 +10,7 @@ Welcome to my interactive 3D portfolio built with **React**, **Three.js **, **Fr
 ---
 
 ## 🚀 Live Demo
-🌐 TO View: shyamalanewportfolio.netlify.app
+🌐 TO View: https://shyamalanewportfolio.netlify.app/
 
 ---
 
