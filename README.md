@@ -1,6 +1,7 @@
 # 💻 Shyamala's 3D Developer Portfolio
 
 ![Uploading Screenshot 2025-05-29 145458.png…]()
+
 <!-- Add a screenshot or GIF of your portfolio -->
 
 Welcome to my interactive 3D portfolio built with **React**, **Three.js **, **Framer Motion**, and **Tailwind CSS**. This portfolio showcases my projects, skills, and contact info with smooth animations and a rotating 3D developer avatar.
@@ -8,7 +9,7 @@ Welcome to my interactive 3D portfolio built with **React**, **Three.js **, **Fr
 ---
 
 ## 🚀 Live Demo
-🌐 [View Portfolio]((https://shyamalanewportfolio.netlify.app/#education))
+🌐 TO View: https://shyamalanewportfolio.netlify.app/#education
 
 ---
 
