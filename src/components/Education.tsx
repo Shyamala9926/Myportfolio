@@ -11,7 +11,7 @@ const educationList = [
   },
   {
     degree: 'B-Tech in Computer Science & Engineering',
-    institution: 'Free Dattha Institute of Engineering',
+    institution: 'Sree Dattha Institute of Engineering',
     duration: '2021 – 2024',
     icon: <GraduationCap size={24} className="text-neon-purple" />
   },
@@ -25,7 +25,7 @@ const educationList = [
 
 const EducationCard = ({ education, index }: { education: any; index: number }) => {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: true, threshold: 0.1 });
+  const isInView = useInView(ref, { once: true, amount: 0.1 });
 
   return (
     <motion.div
@@ -66,7 +66,7 @@ const EducationCard = ({ education, index }: { education: any; index: number }) 
 
 const Education = () => {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: false, threshold: 0.1 });
+  const isInView = useInView(ref, { once: false, amount: 0.1 });
 
   return (
     <section id="education" className="py-20 relative overflow-hidden">
