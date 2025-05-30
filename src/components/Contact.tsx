@@ -58,7 +58,7 @@ const contactInfo = [
 
 const Contact = () => {
   const ref = useRef(null);
-  const isInView = useInView(ref, { once: false, threshold: 0.1 });
+  const isInView = useInView(ref, { once: false, amount: 0.1 });
   const [formData, setFormData] = useState({
     name: '',
     email: '',
