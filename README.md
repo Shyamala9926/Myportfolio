@@ -1,4 +1,4 @@
-# 💻 Shyamala's 3D Developer Portfolio
+# 💻 Shyamala's Portfolio
 
 ![Screenshot 2025-05-29 145458](https://github.com/user-attachments/assets/98dda6ca-e8c3-4fb7-b767-e49cad7fccf2)
 
