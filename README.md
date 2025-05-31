@@ -10,7 +10,7 @@ Welcome to my interactive 3D portfolio built with **React**, Three.js , Framer M
 ---
 
 ## 🚀 Live Demo
-🌐 TO View: https://shyamalanewportfolio.netlify.app/
+🌐 To View: https://shyamalanewportfolio.netlify.app/
 
 ---
 
